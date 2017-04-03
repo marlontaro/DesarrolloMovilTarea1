@@ -31,3 +31,4 @@ Desarrollo
 5. Cree las vistas de Session  (login, destroy)
 6. EL sitio esta alojado en https://webprojectrails-marlontaro.c9users.io/
 7. La documentacion utilizada fue https://www.railstutorial.org/book/
+8. Code https://github.com/marlontaro/DesarrolloMovilTarea1
